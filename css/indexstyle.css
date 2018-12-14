@@ -1,0 +1,137 @@
+.banner{
+    background-image: linear-gradient(to bottom right, #1d62d7, #6191e3);
+    height: 120vh;
+}
+@media (max-width: 768px) {
+    .banner{
+       height: 210vh;
+    }
+  }
+.jumbo{
+    background-color: transparent;
+}
+@media (max-width: 768px) {
+    .img{
+       width: 300px; 
+    }
+}
+.bt{
+    background-color: white;
+    border-radius: 40px;
+    width: 150px;
+    margin-left: 100px;
+}
+@media (max-width: 768px) {
+    .bt{
+        margin-left: 60px;
+    }
+  }
+.r{
+    margin-top: -100px;
+    width: 140vh;
+    margin-left: 100px;
+}
+@media (max-width: 768px) {
+    .r{
+        margin-top: -50px;
+        margin-left: 5px;
+        width: 50vh;
+    }
+  }
+.ca{
+    height: 40vh;
+    box-shadow: 0px 6px 5px 2px #a5a5ac;
+}
+.c1{
+    width: 80px;
+    height: 80px;
+    border-radius: 50px;
+    margin: 10px auto;
+    box-shadow: 0px 4px 4px 2px #dcd1d1;
+}
+.ico{
+    font-size: 40px; 
+}
+.ic{
+    color:#1d62d7; 
+}
+.ico1{
+    width:75px; 
+    height:75px; 
+    border:1px solid gray;
+    color: white;
+    background-color:#1d62d7; 
+}
+.plan{
+    border-radius: 40px;
+    width: 250px;
+    height: 48px;
+}
+.b{
+    background-color: #f06d31;
+    border-radius: 40px;
+    width: 150px;
+    margin-top: 5px;
+    margin-left: 3px;
+}
+.bt1{
+    background-color: #f06d31;
+    border-radius: 40px;
+    width: 170px;
+}
+.r1{
+    
+    width: 140vh;
+    margin-left: 100px;
+}
+@media (max-width: 768px) {
+    .r1{
+        margin-left: 5px;
+        width: 50vh;
+    }
+  }
+.c2{
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    margin: 10px auto;
+    border: 2px solid #6191e3;
+}
+.ca1{
+    height: 55vh;
+    box-shadow: 0px 6px 5px 2px #a5a5ac;
+}
+@media (max-width: 768px) {
+    .ca1{
+        height: 60vh;
+    }
+  }
+.pro{
+    background-image: url('/image/profile.jpg');
+    background-size: cover;
+}
+.pro1{
+    background-image: url('/image/profile1.jpg');
+    background-size: cover;
+}
+.pro2{
+    background-image: url('/image/profile2.jpg');
+    background-size: cover;
+}
+.d{
+    width: 10px;
+    height: 10px;
+    border-radius: 50px;
+    border: 2px solid #cfcbcb;
+}
+.main-footer{
+    background-image: linear-gradient(to bottom right, #1d62d7, #6191e3);
+    height: 20vh;
+    margin-top: 100px;
+}
+@media (max-width: 768px) {
+    .main-footer{
+       
+        height: 70vh;
+    }
+  }
